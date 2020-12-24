@@ -10,6 +10,7 @@ Here are some of the requirements, to run these scripts on your local machine:
 `
 $ az login
 `
+5. Download latest version of Python from the link: https://www.python.org/downloads/
 
 ## Steps to create a Azure Resource group
 Run this script on your command prompt or terminal of your VS Code to create a resource group:
